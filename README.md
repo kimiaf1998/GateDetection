@@ -37,6 +37,7 @@ git clone  https://github.com/kimiaf1998/U-Shaped-Gate-Detection.git
 2. Click the Run button from the IDE or press `CTRL+R` to start the application.
 
 <br/>
+
 ### Screenshots
 
 | ![screen 1](https://github.com/kimiaf1998/U-Shaped-Gate-Detection/blob/master/screenshots/Screenshot%20from%202021-12-03%2017-47-23.png "screen 1")  | ![screen 2](https://github.com/kimiaf1998/U-Shaped-Gate-Detection/blob/master/screenshots/Screenshot%20from%202021-12-03%2017-47-48.png "screen 2")   |  ![screen 3](https://github.com/kimiaf1998/U-Shaped-Gate-Detection/blob/master/screenshots/Screenshot%20from%202021-12-03%2017-49-26.png "screen 3")  |
