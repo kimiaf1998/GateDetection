@@ -35,8 +35,11 @@ pass through the red gates without any collision to score the relevant point suc
 git clone  https://github.com/kimiaf1998/GateDetection.git
 ```
 
-2. Open the terminal on the repository directory and compile it using `g++`:
-```bash
-g++ src/main.cpp -o b_shooter -lsfml-graphics -lsfml-window -lsfml-system
-```
-Run the ``main.cpp`` file in your IDE
+2. Run the ``main.cpp`` file in your IDE
+
+
+</br>
+
+### Screenshots
+
+
