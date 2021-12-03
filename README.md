@@ -6,7 +6,7 @@ The task is real-time detection of yellow and red u-shaped gates using ``C++`` a
 pass through the red gates without any collision to score the relevant point successfully. If there are several gates, the algorithm chooses the closest one for the robot to pass.
 
 
-# Description
+### Description
 
 
 * We open the video camera to capture real-time frames
@@ -15,15 +15,17 @@ pass through the red gates without any collision to score the relevant point suc
 * Emit signals when the gate found
 * Set up and down signal based on the color of detected gate
 
-
-# Requirements
+</br>
+### Requirements
 
 
 * C++ Programming Language (version 11 or higher is suggested)
 * OpenCV
 
 
-# Run
+</br>
+
+### Run
 
 
 1. Download the repository by clicking on[ this link](https://github.com/kimiaf1998/GateDetection/archive/refs/heads/master.zip " this link") then extract it, or clone it using:
