@@ -30,9 +30,9 @@ pass through the red gates without any collision to score the relevant point suc
 ### Run
 
 
-1. Download the repository by clicking on[ this link](https://github.com/kimiaf1998/GateDetection/archive/refs/heads/master.zip " this link") then extract it, or clone it using:
+1. Download the repository by clicking on[ this link](https://github.com/kimiaf1998/U-Shaped-Gate-Detection/archive/refs/heads/master.zip " this link") then extract it, or clone it using:
 ```bash
-git clone  https://github.com/kimiaf1998/GateDetection.git
+git clone  https://github.com/kimiaf1998/U-Shaped-Gate-Detection.git
 ```
 
 2. Run the ``main.cpp`` file in your IDE
