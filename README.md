@@ -1,31 +1,27 @@
-# U-Shaped Gate Detection
+#  Gate Detector (CPP + OpenCV)
+
+Real-time **yellow** and **red** u-shaped gate detector using `C++` and `OpenCV` libraries.
+
+### Problem definition
+There are some U-shaped gates on the ground. A drone robot is assigned to cross the yellow gates from the above and pass through the red gates without any collision to the gates in order to score the relevant point successfully. Note that if there are several gates, the algorithm chooses the closest to pass by the robot.
+
+<br/>
 
 
+### Step-by-Step solution
 
-The task is real-time detecting of yellow and red u-shaped gates using ``C++`` and ``OpenCV`` library. The robot has a mission to cross the yellow gates from above and 
-pass through the red gates without any collision to score the relevant point successfully. If there are several gates, the algorithm chooses the closest one for the robot to pass.
-
+- Capturing real-time frame stream by opening the camera
+- Applying preliminary filters to the stream (such as resizing to 320 x 240)
+- Processing each frame to check if the gates exist in the frame
+- Emitting direction signals when the gate found, based on the color of the detected gate.
 
 
 ### Requirements
+* C++ Programming Language (version >=11)
+* OpenCV (version 2.4.13 is preferred)
+* QT Creator IDE
 
-
-* C++ Programming Language (version 11 or higher is suggested)
-* OpenCV
-
-
-
-
-### Algorithm Steps
-
-
-* Opening the video camera to capture real-time frames
-* Resizing the frames to (320,240)
-* Processing each frame for the probability of gates existence using color and u-shaped gate detection algorithms
-* Emitting signals when the gate found
-* Setting up-and-down signal based on the color of detected gate
-
-
+<br/>
 
 ### Run
 
@@ -35,11 +31,12 @@ pass through the red gates without any collision to score the relevant point suc
 git clone  https://github.com/kimiaf1998/U-Shaped-Gate-Detection.git
 ```
 
-2. Run the ``main.cpp`` file in your IDE
+2. Open the repository in QT Creator
+2. Click the Run button from the IDE or press `CTRL+R` to start the application.
 
-
-
+<br/>
 ### Screenshots
 
-| ![scr1](https://user-images.githubusercontent.com/47594854/144535586-67c68c14-2676-4da0-a1e9-8a14cc5fd1ff.jpg "scr1") | ![scr2](https://user-images.githubusercontent.com/47594854/144535633-3f8d2daf-6af3-4a36-971e-bca2612ae58d.jpg "scr2") |
-| ------------ | ------------ |
+| ![screen 1](https://github.com/kimiaf1998/U-Shaped-Gate-Detection/blob/master/screenshots/Screenshot%20from%202021-12-03%2017-47-23.png "screen 1")  | ![screen 2](https://github.com/kimiaf1998/U-Shaped-Gate-Detection/blob/master/screenshots/Screenshot%20from%202021-12-03%2017-48-47.png "screen 2	")  | ![screen 3](https://github.com/kimiaf1998/U-Shaped-Gate-Detection/blob/master/screenshots/Screenshot%20from%202021-12-03%2017-48-56.png "screen 3")  |
+| ------------ | ------------ | ------------ |
+|  ![screen 4](https://github.com/kimiaf1998/U-Shaped-Gate-Detection/blob/master/screenshots/Screenshot%20from%202021-12-03%2017-48-56.png "screen 4")  |  ![screen 5](https://github.com/kimiaf1998/U-Shaped-Gate-Detection/blob/master/screenshots/Screenshot%20from%202021-12-03%2017-49-26.png "screen 5")  |  ![screen 6](https://github.com/kimiaf1998/U-Shaped-Gate-Detection/blob/master/screenshots/Screenshot%20from%202021-12-03%2017-49-39.png "screen 6")  |
