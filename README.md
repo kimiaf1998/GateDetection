@@ -23,4 +23,16 @@ pass through the red gates without any collision to score the relevant point suc
 * OpenCV
 
 
+# Run
 
+
+1. Download the repository by clicking on[ this link](https://github.com/kimiaf1998/GateDetection/archive/refs/heads/master.zip " this link") then extract it, or clone it using:
+```bash
+git clone  https://github.com/kimiaf1998/GateDetection.git
+```
+
+2. Open the terminal on the repository directory and compile it using `g++`:
+```bash
+g++ src/main.cpp -o b_shooter -lsfml-graphics -lsfml-window -lsfml-system
+```
+Run the ``main.cpp`` file in your IDE
