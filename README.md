@@ -2,8 +2,8 @@
 
 
 
-The task is real-time detection of yellow and red u-shaped gates using ``C++`` and ``OpenCV`` library. The robot’s mission is to cross the yellow gates from above and 
-pass through the red gates without any collision to score the relevant point successfully. If there are several gates, the algotithm choose the closer one for the robot to pass.
+The task is real-time detection of yellow and red u-shaped gates using ``C++`` and ``OpenCV`` library. The robot has a mission to cross the yellow gates from above and 
+pass through the red gates without any collision to score the relevant point successfully. If there are several gates, the algorithm chooses the closest one for the robot to pass.
 
 
 # Description
@@ -11,9 +11,9 @@ pass through the red gates without any collision to score the relevant point suc
 
 * We open the video camera to capture real-time frames
 * Resize the frames to (320,240)
-* Process each frame for the probability of gates existance using color and u-shaped gate detection algorithms
+* Process each frame for the probability of gates existence using color and u-shaped gate detection algorithms
 * Emit signals when the gate found
-* Set up and down sigal based on the color of detected gate
+* Set up and down signal based on the color of detected gate
 
 
 #Requirements
