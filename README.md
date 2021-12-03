@@ -1,4 +1,4 @@
-# U-Shaped Gates Detection
+# U-Shaped Gate Detection
 
 
 
