@@ -7,7 +7,7 @@ There are some U-shaped gates on the ground. A drone robot is assigned to cross 
 
 **Note that if there are several gates, the algorithm chooses the closest to pass by the robot.**
 
-<br/>
+
 
 ### Step-by-Step solution
 
@@ -15,14 +15,15 @@ There are some U-shaped gates on the ground. A drone robot is assigned to cross 
 - Applying preliminary filters to the stream (such as resizing to 320 x 240)
 - Processing each frame to check if the gates exist in the frame
 - Emitting direction signals when the gate found, based on the color of the detected gate.
-<br/>
+
+
 
 ### Requirements
 - C++ Programming Language (version >=11)
 - OpenCV (version 2.4.13 is preferred)
 - `QT Creator IDE`
 
-<br/>
+
 
 ### Run
 
@@ -36,7 +37,8 @@ git clone  https://github.com/kimiaf1998/U-Shaped-Gate-Detection.git
 3. Click the Run button from the IDE or press `CTRL+R` to start the application
 4. Change yellow and red HSV threshold by relevant sliders
 
-<br/>
+
+
 
 ### Screenshots
 
