@@ -15,7 +15,7 @@ There are some U-shaped gates on the ground. A drone robot is assigned to cross 
 - Applying preliminary filters to the stream (such as resizing to 320 x 240)
 - Processing each frame to check if the gates exist in the frame
 - Emitting direction signals when the gate found, based on the color of the detected gate.
-
+<br/>
 
 ### Requirements
 - C++ Programming Language (version >=11)
