@@ -1,4 +1,4 @@
-#  Gate Detector (CPP + OpenCV)
+#  Gate Detection
 
 Real-time **yellow** and **red** u-shaped gate detector using `C++` and `OpenCV` libraries.
 
