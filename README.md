@@ -13,7 +13,7 @@ pass through the red gates without any collision to score the relevant point suc
 * Resize the frames to (320,240)
 * Process each frame for the probability of gates existence using color and u-shaped gate detection algorithms
 * Emit signals when the gate found
-* Set up and down signal based on the color of detected gate
+* Set up-and-down signal based on the color of detected gate
 
 
 
