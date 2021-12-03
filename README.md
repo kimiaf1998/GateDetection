@@ -16,7 +16,6 @@ pass through the red gates without any collision to score the relevant point suc
 * Set up and down signal based on the color of detected gate
 
 
-</br>
 
 ### Requirements
 
@@ -25,7 +24,6 @@ pass through the red gates without any collision to score the relevant point suc
 * OpenCV
 
 
-</br>
 
 ### Run
 
@@ -38,7 +36,6 @@ git clone  https://github.com/kimiaf1998/GateDetection.git
 2. Run the ``main.cpp`` file in your IDE
 
 
-</br>
 
 ### Screenshots
 
