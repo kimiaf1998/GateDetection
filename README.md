@@ -40,7 +40,6 @@ git clone  https://github.com/kimiaf1998/U-Shaped-Gate-Detection.git
 
 ### Screenshots
 
-| <img src="https://github.com/favicon.ico" width="48">
- | ![screen 2](https://github.com/kimiaf1998/U-Shaped-Gate-Detection/blob/master/screenshots/Screenshot%20from%202021-12-03%2017-47-48.png "screen 2")   |  ![screen 3](https://github.com/kimiaf1998/U-Shaped-Gate-Detection/blob/master/screenshots/Screenshot%20from%202021-12-03%2017-49-26.png "screen 3")  |
+| <img src="https://github.com/kimiaf1998/U-Shaped-Gate-Detection/blob/master/screenshots/Screenshot%20from%202021-12-03%2017-47-23.png" width="120">| ![screen 2](https://github.com/kimiaf1998/U-Shaped-Gate-Detection/blob/master/screenshots/Screenshot%20from%202021-12-03%2017-47-48.png "screen 2")   |  ![screen 3](https://github.com/kimiaf1998/U-Shaped-Gate-Detection/blob/master/screenshots/Screenshot%20from%202021-12-03%2017-49-26.png "screen 3")  |
 | ------------ | ------------ | ------------ |
 |  ![screen 4](https://github.com/kimiaf1998/U-Shaped-Gate-Detection/blob/master/screenshots/Screenshot%20from%202021-12-03%2017-49-39.png "screen 4")  |  ![screen 5](https://github.com/kimiaf1998/U-Shaped-Gate-Detection/blob/master/screenshots/Screenshot%20from%202021-12-03%2017-48-47.png "screen 5	")  | ![screen 6](https://github.com/kimiaf1998/U-Shaped-Gate-Detection/blob/master/screenshots/Screenshot%20from%202021-12-03%2017-48-47.png  "screen 6")  |
