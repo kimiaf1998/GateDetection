@@ -37,23 +37,10 @@ git clone  https://github.com/kimiaf1998/U-Shaped-Gate-Detection.git
 2. Click the Run button from the IDE or press `CTRL+R` to start the application.
 
 <br/>
+
 ### Screenshots
 
-
-<table>
-  <tr>
-    <td> <img src="https://github.com/kimiaf1998/U-Shaped-Gate-Detection/blob/master/screenshots/Screenshot%20from%202021-12-03%2017-47-23.png"  alt="1" width = 320px height = 240px ></td>
-
-    <td><img src="https://github.com/kimiaf1998/U-Shaped-Gate-Detection/blob/master/screenshots/Screenshot%20from%202021-12-03%2017-47-48.png" alt="2" width = 320px height = 240px></td>
-	
-	<td><img src="https://github.com/kimiaf1998/U-Shaped-Gate-Detection/blob/master/screenshots/Screenshot%20from%202021-12-03%2017-49-26.png" alt="2" width = 320px height = 240px></td>
-   </tr>
-   <tr>
-      <td><img src="https://github.com/kimiaf1998/U-Shaped-Gate-Detection/blob/master/screenshots/Screenshot%20from%202021-12-03%2017-49-39.png" alt="3" width = 320px height = 240px></td>
-
-      <td><img src="https://github.com/kimiaf1998/U-Shaped-Gate-Detection/blob/master/screenshots/Screenshot%20from%202021-12-03%2017-48-47.png" align="right" alt="4" width = 320px height = 240px>
-	  
-	  <td><img src="https://github.com/kimiaf1998/U-Shaped-Gate-Detection/blob/master/screenshots/Screenshot%20from%202021-12-03%2017-48-56.png" align="right" alt="4" width = 320px height = 240px>
-  </td>
-  </tr>
-</table>
+| <img src="https://github.com/favicon.ico" width="48">
+ | ![screen 2](https://github.com/kimiaf1998/U-Shaped-Gate-Detection/blob/master/screenshots/Screenshot%20from%202021-12-03%2017-47-48.png "screen 2")   |  ![screen 3](https://github.com/kimiaf1998/U-Shaped-Gate-Detection/blob/master/screenshots/Screenshot%20from%202021-12-03%2017-49-26.png "screen 3")  |
+| ------------ | ------------ | ------------ |
+|  ![screen 4](https://github.com/kimiaf1998/U-Shaped-Gate-Detection/blob/master/screenshots/Screenshot%20from%202021-12-03%2017-49-39.png "screen 4")  |  ![screen 5](https://github.com/kimiaf1998/U-Shaped-Gate-Detection/blob/master/screenshots/Screenshot%20from%202021-12-03%2017-48-47.png "screen 5	")  | ![screen 6](https://github.com/kimiaf1998/U-Shaped-Gate-Detection/blob/master/screenshots/Screenshot%20from%202021-12-03%2017-48-47.png  "screen 6")  |
