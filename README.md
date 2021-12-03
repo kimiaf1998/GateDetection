@@ -42,3 +42,4 @@ git clone  https://github.com/kimiaf1998/U-Shaped-Gate-Detection.git
 ### Screenshots
 
 | ![scr1](https://user-images.githubusercontent.com/47594854/144535586-67c68c14-2676-4da0-a1e9-8a14cc5fd1ff.jpg "scr1") | ![scr2](https://user-images.githubusercontent.com/47594854/144535633-3f8d2daf-6af3-4a36-971e-bca2612ae58d.jpg "scr2") |
+| ------------ | ------------ |
