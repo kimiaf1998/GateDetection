@@ -34,7 +34,8 @@ git clone  https://github.com/kimiaf1998/U-Shaped-Gate-Detection.git
 ```
 
 2. Open the repository in QT Creator
-2. Click the Run button from the IDE or press `CTRL+R` to start the application.
+3. Click the Run button from the IDE or press `CTRL+R` to start the application
+4. Change yellow and red HSV threshold by corresponded sliders
 
 <br/>
 
