@@ -9,7 +9,6 @@ There are some U-shaped gates on the ground. A drone robot is assigned to cross 
 
 <br/>
 
-
 ### Step-by-Step solution
 
 - Capturing real-time frame stream by opening the camera
@@ -35,7 +34,7 @@ git clone  https://github.com/kimiaf1998/U-Shaped-Gate-Detection.git
 
 2. Open the repository in QT Creator
 3. Click the Run button from the IDE or press `CTRL+R` to start the application
-4. Change yellow and red HSV threshold by corresponded sliders
+4. Change yellow and red HSV threshold by relevant sliders
 
 <br/>
 
