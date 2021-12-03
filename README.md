@@ -1,7 +1,26 @@
-# GateDetection
-# Fira 2019
-Here we have some gates with two colors. RED & YELLOW.
-In this project Robot has to go top of RED gates and through YELLOW gates without any collission.
+# U-Shaped Gates Detection
 
 
-Sample gates photo attached. You can see them.
+
+The task is real-time detection of yellow and red u-shaped gates using ``C++`` and ``OpenCV`` library. The robot’s mission is to cross the yellow gates from above and 
+pass through the red gates without any collision to score the relevant point successfully. If there are several gates, the algotithm choose the closer one for the robot to pass.
+
+
+# Description
+
+
+* We open the video camera to capture real-time frames
+* Resize the frames to (320,240)
+* Process each frame for the probability of gates existance using color and u-shaped gate detection algorithms
+* Emit signals when the gate found
+* Set up and down sigal based on the color of detected gate
+
+
+#Requirements
+
+
+* C++ Programming Language (version 11 or higher is suggested)
+* OpenCV
+
+
+
