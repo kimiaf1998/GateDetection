@@ -16,7 +16,7 @@ pass through the red gates without any collision to score the relevant point suc
 
 
 
-### Steps
+### Algorithm Steps
 
 
 * Opening the video camera to capture real-time frames
