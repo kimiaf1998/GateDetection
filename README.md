@@ -6,6 +6,16 @@ The task is real-time detecting of yellow and red u-shaped gates using ``C++`` a
 pass through the red gates without any collision to score the relevant point successfully. If there are several gates, the algorithm chooses the closest one for the robot to pass.
 
 
+
+### Requirements
+
+
+* C++ Programming Language (version 11 or higher is suggested)
+* OpenCV
+
+
+
+
 ### Steps
 
 
@@ -14,14 +24,6 @@ pass through the red gates without any collision to score the relevant point suc
 * Processing each frame for the probability of gates existence using color and u-shaped gate detection algorithms
 * Emitting signals when the gate found
 * Setting up-and-down signal based on the color of detected gate
-
-
-
-### Requirements
-
-
-* C++ Programming Language (version 11 or higher is suggested)
-* OpenCV
 
 
 
