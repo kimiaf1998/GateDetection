@@ -1,6 +1,6 @@
 #  Gate Detection 
 
-Real-time **yellow** and **red** u-shaped gate detector using `C++` and `OpenCV` libraries.
+Real-time **yellow** and **red** u-shaped gate detector using `C++` and `OpenCV` library.
 
 ### Problem definition
 There are some U-shaped gates on the ground. A drone robot is assigned to cross the yellow gates from above and pass through the red gates without any collision to the gates in order to score the relevant point successfully. 
